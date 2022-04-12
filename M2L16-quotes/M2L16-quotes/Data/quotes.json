@@ -1,0 +1,61 @@
+[
+    {
+    "author" : "Epicuro",
+    "image" : "ambition",
+    "quotes" : [
+    "Di tutte le cose che la saggezza procura per ottenere un'esistenza felice, la più grande è l'amicizia",
+    "Non è tanto dell'aiuto degli amici che noi abbiamo bisogno, quanto della fiducia che essi ci aiuterebbero nel caso ne avessimo bisogno",
+    "Non si deve invidiare nessuno; i buoni non meritano invidia; per quanto riguarda i cattivi, più hanno fortuna e più si rovinano",
+    "Il supremo frutto dell'autosufficienza è la libertà"]
+    },
+    {
+        "author" : "Albert Einstein",
+        "image" : "reflect2",
+        "quotes" : [
+        "La gioia nell'osservare e nel comprendere è il dono più bello della natura",
+        "La prima necessità dell'uomo è il superfluo",
+        "Le persone come noi, che credono nella fisica, sanno che la distinzione fra passato, presente e futuro non è altro che una persistente cocciuta illusione",
+        "La vita è come andare in bicicletta: se vuoi stare in equilibrio devi muoverti"
+        ]
+    },
+    {
+        "author" : "Confucio",
+        "image" : "focus",
+        "quotes" : [
+        "La mente dell'uomo superiore ha familiarità con la giustizia; la mente dell'uomo mediocre ha familiarità con il guadagno",
+        "Solo i grandisapienti ed i grandiignoranti sono immutabili",
+        "Quando vediamo uomini di carattere contrario, dovremmo rivoltarci ed esaminare noi stessi",
+        "Quando arriva la prosperità, non usarla tutta"
+        ]
+    },
+    {
+        "author" : "Lao Tse",
+        "image" : "reflect",
+        "quotes" : [
+        "Comprendere gli esseri umani è intelligenza, comprendere se stessi è saggezza",
+        "Chi sa non parla, chi parla non sa",
+        "La felicità è più leggera di una piuma ma nessuno sa come portarla",
+        "Chi sa contentarsi è ricco"
+        ]
+    },
+    {
+        "author" : "Milan Kundera",
+        "image" : "calm",
+        "quotes" : [
+        "La stupidità deriva dall'avere una risposta per ogni cosa La saggezza deriva dall'avere, per ogni cosa, una domanda",
+        "Prenditi il diritto di sorprenderti",
+        "Il valore di una coincidenza è uguale al suo grado di improbabilità",
+        "Bellezza, l'ultima vittoria possibile dell'uomo che non ha più speranza"
+        ]
+    },
+    {
+        "author" : "Napoleone Bonaparte",
+        "image" : "ambition",
+        "quotes" : [
+        "Non interrompere mai il tuo nemico mentre sta facendo un errore",
+        "Il possesso ne diminuisce il valore",
+        "Impossibile: una parola che si trova solo nel vocabolario degli stupidi",
+        "Quando uno è solo cammina più rapidamente"
+        ]
+    }
+]

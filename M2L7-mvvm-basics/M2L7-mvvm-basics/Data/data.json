@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Margherita",
+        "image": "margherita",
+        "toppings": [
+            "pomo",
+            "mozza",
+            "parmigiano"
+        ]
+    },
+    {
+        "name": "Prosciutto Cotto",
+        "image": "cotto",
+        "toppings": [
+            "pomo",
+            "mozza",
+            "cotto"
+        ]
+    },
+    {
+        "name": "Prosciutto Crudo",
+        "image": "crudo",
+        "toppings": [
+            "pomo",
+            "mozza",
+            "crudo"
+        ]
+    },
+    {
+        "name": "Mare e Monti",
+        "image": "mare_monti",
+        "toppings": [
+            "pomo",
+            "mozza",
+            "mare",
+            "olive",
+            "funghi"
+        ]
+    },
+    {
+        "name": "Capricciosa",
+        "image": "mare",
+        "toppings": [
+            "pomo",
+            "mozza",
+            "cotto",
+            "olive",
+            "carciofi"
+        ]
+    }
+]
